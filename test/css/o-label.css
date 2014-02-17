@@ -1,0 +1,20 @@
+/**
+ * Test: Archetype/o-label.scss
+ *
+ */
+/*** @export "label-object" css */
+/**
+ * Label Object
+ * 
+ */
+/* line 6, ../../_o-label.scss */
+.o-label, .test__o-label {
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+/**
+ * Label Object Tests
+ */

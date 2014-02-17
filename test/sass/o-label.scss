@@ -1,0 +1,13 @@
+/**
+ * Test: Archetype/o-label.scss
+ *
+ */
+@import '../../_o-label.scss';
+
+/**
+ * Label Object Tests
+ */
+.test__o-label {
+  @extend .o-label;
+}
+
